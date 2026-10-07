@@ -7,4 +7,4 @@ Make app changes in the private project, then rebuild and refresh `docs/`.
 Do not edit generated website files directly. No workout records or private
 environment files belong in this folder.
 
-This local folder has not yet been published or connected to a GitHub repository.
+
